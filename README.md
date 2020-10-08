@@ -39,4 +39,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link:[https://loonyt.github.io/Develop-a-Quiz-App-with-Javascript---Object-Oriented-Programming/](QUIZZapp)
 
 
-
+2 : https://loonyt.github.io/Develop-a-Quiz-App-with-Javascript---Object-Oriented-Programming/
