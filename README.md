@@ -12,9 +12,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project :  Develop a Quiz App with Javascript Object-Oriented-Programming
-practicing basic OOP in javascript
 
-Implementation of the MVC pattern by doing a small quizz app which is here not functional. 
+Implementation of the MVC pattern by doing a small quizz app which is here not functional because there are some mistakes in "app.js" that i am not able to solve for the time being. 
 
 ### Built With
 * javascript
